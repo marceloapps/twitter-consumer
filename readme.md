@@ -36,13 +36,13 @@ Para publicação dependente de framework:
 Para publicação auto-suficiente:
 * executar o arquivo TwitterConsumer.exe
 
-## Built With
+## Construído com
 
 * [.NetCore 3.0](https://docs.microsoft.com/pt-br/dotnet/core/about) - Framework utilizado
 * [TweetInvi](https://github.com/linvi/tweetinvi) - API do Twitter para consumir os posts
 * [MongoDB.Driver](https://docs.mongodb.com/ecosystem/drivers/csharp/) - Utilizado para criar conexão com mongodb
 
-## Versioning
+## Versão
 
 v1.0.0
 
